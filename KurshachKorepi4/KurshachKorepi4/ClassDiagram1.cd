@@ -1,0 +1,219 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="KurshachKorepi4.Classes.Tractor">
+    <Position X="0.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAACAAAAAIAACAAAAAAAAAAAAAAAIAACAAAAAAA=</HashCode>
+      <FileName>classes\Tractor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KurshachKorepi4.Classes.Trailer">
+    <Position X="2.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAgAAAAgABAAAAAQAAiAAAAAAAAAAgAAAAAAAQAA=</HashCode>
+      <FileName>classes\Trailer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KurshachKorepi4.Classes.Van">
+    <Position X="4.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAIAACAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>classes\Van.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KurshachKorepi4.Vehicle">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAgAAAAoCAAAgEAAAAACAAAgCACAAggEAKAAA=</HashCode>
+      <FileName>classes\Vehicle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KurshachKorepi4.Form1" Collapsed="true">
+    <Position X="14.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQMQkCglovFACQKBREGgBRASQAKEBgQAIzSAIKACEUI=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KurshachKorepi4.Program" Collapsed="true">
+    <Position X="16.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KurshachKorepi4.VehicleDataSet" Collapsed="true">
+    <Position X="16.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAwCAAAJABAAAQAAAAAgCQBgQAAAAAIEABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KurshachKorepi4.VehicleDataSet1" Collapsed="true">
+    <Position X="7.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAwCAAAJABAAAQAAAAAgCQBgQAAAAAIEABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KurshachKorepi4.VehicleDataSet2" Collapsed="true">
+    <Position X="9.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAwCAAAJABAAAQAAAAAgCQBgQAAAAAIEABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KurshachKorepi4.VehicleDataSet3" Collapsed="true">
+    <Position X="11" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAwAQAAJABAACQBAAAAgCQBgAAAAAAAEABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KurshachKorepi4.VehicleDataSet4" Collapsed="true">
+    <Position X="12.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAwAAAAJABAAEQEAAAAgCwBgAAAAAAAEABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KurshachKorepi4.VehicleDataSet5" Collapsed="true">
+    <Position X="14.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAwAQAAJABAACQBAAAAgCQBgAAAAAAAEABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KurshachKorepi4.VehicleDataSet6" Collapsed="true">
+    <Position X="16.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAwAAAAJABAAEQEAAAAgCwBgAAAAAAAEABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KurshachKorepi4.forms.AddVehicle" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EgAQBAAABCCBARAAACKAAAADJEgAAMAwAiECEEAAABA=</HashCode>
+      <FileName>forms\AddVehicle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KurshachKorepi4.forms.EditVehicle" Collapsed="true">
+    <Position X="12.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EgIQBAAAJCCBARBAACKABCQDIAgAAMAyAgECEEIQABA=</HashCode>
+      <FileName>forms\EditVehicle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KurshachKorepi4.forms.SearchVehicle" Collapsed="true">
+    <Position X="9.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgCAAEBAAAACAAAADAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>forms\SearchVehicle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KurshachKorepi4.Properties.Resources" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KurshachKorepi4.Properties.Settings" Collapsed="true">
+    <Position X="11" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KurshachKorepi4.utils.database_api.Database" Collapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAAAAAAAAAQEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>utils\database_api\Database.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KurshachKorepi4.utils.database_api.Database_commands" Collapsed="true">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAgYAACAEAAACAAAIAABEAACAAEAAA=</HashCode>
+      <FileName>utils\database_api\Database_commands.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KurshachKorepi4.VehicleDataSetTableAdapters.VanTableAdapter" Collapsed="true">
+    <Position X="11" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KurshachKorepi4.VehicleDataSetTableAdapters.TableAdapterManager" Collapsed="true">
+    <Position X="12.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAACAAAABABAEBAAAAMAAgAAACgAAAAAQCAAAABBQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KurshachKorepi4.VehicleDataSet1TableAdapters.VanTableAdapter" Collapsed="true">
+    <Position X="12.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KurshachKorepi4.VehicleDataSet1TableAdapters.TableAdapterManager" Collapsed="true">
+    <Position X="11" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAACAAAABABAEBAAAAMAAgAAACgAAAAAQCAAAABBQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KurshachKorepi4.VehicleDataSet2TableAdapters.VanTableAdapter" Collapsed="true">
+    <Position X="14.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KurshachKorepi4.VehicleDataSet2TableAdapters.TableAdapterManager" Collapsed="true">
+    <Position X="9.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAACAAAABABAEBAAAAMAAgAAACgAAAAAQCAAAABBQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KurshachKorepi4.VehicleDataSet3TableAdapters.TrailerTableAdapter" Collapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACAICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KurshachKorepi4.VehicleDataSet3TableAdapters.TableAdapterManager" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQQAACAAAABABAEBAAAAMAAgAAACgAAAAAQAAAAAJAQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KurshachKorepi4.VehicleDataSet4TableAdapters.TractorTableAdapter" Collapsed="true">
+    <Position X="14.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACAICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KurshachKorepi4.VehicleDataSet4TableAdapters.TableAdapterManager" Collapsed="true">
+    <Position X="16.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAACAAAABABAEBAAAAMAAgAAACgAAAgAQAAAABBAQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KurshachKorepi4.VehicleDataSet5TableAdapters.TrailerTableAdapter" Collapsed="true">
+    <Position X="9.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACAICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KurshachKorepi4.VehicleDataSet5TableAdapters.TableAdapterManager" Collapsed="true">
+    <Position X="14.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQQAACAAAABABAEBAAAAMAAgAAACgAAAAAQAAAAAJAQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KurshachKorepi4.VehicleDataSet6TableAdapters.TractorTableAdapter" Collapsed="true">
+    <Position X="16.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACAICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KurshachKorepi4.VehicleDataSet6TableAdapters.TableAdapterManager" Collapsed="true">
+    <Position X="12.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAACAAAABABAEBAAAAMAAgAAACgAAAgAQAAAABBAQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
